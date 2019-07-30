@@ -11,6 +11,14 @@ Status
 
 In use worldwide since 2005, reported to have a few bugs.
 
+Install
+=======
+pip3 install -r python_requirements.txt
+
+Run
+===
+./Main.py
+
 License
 =======
 

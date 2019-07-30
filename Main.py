@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 #*******************************************************************************************************************
 # Eden Kung and Matt Clark
 # Comp 190 - Enabling Technologies
